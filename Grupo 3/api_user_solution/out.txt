@@ -1,0 +1,7 @@
+35
+21
+8
+Erro: Divisão por zero
+Erro: Parênteses desbalanceados
+Erro: Expressão malformada
+Erro: Expressão malformada
